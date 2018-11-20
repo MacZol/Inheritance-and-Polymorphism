@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Database
+comment0.text=\r\n\ A\ database\ for\ collections\ of\ publications,\ e.g.\ books\ and\ journals\r\n\ \r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Database()
+comment1.text=\r\n\ Create\ a\ new\ database\r\n
+comment2.params=publication
+comment2.target=void\ addPublication(Publication)
+comment3.params=
+comment3.target=int\ getTotal()
+comment3.text=\r\n\ Get\ the\ total\ number\ of\ collections\ \r\n\ \r\n\ @return\ The\ total\ number\ of\ collections\ \ \r\n
+comment4.params=year
+comment4.target=void\ deletePublicationsBeforeYear(int)
+comment5.params=
+comment5.target=void\ printList()
+comment5.text=\ \r\n\ \r\n\ Print\ the\ details\ of\ all\ collections\r\n
+numComments=6
